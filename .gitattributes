@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+=======
+data/cps_extract.dat.gz filter=lfs diff=lfs merge=lfs -text
+data/cps_00002.dat.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> afd73ce (chore: track .dat/.dat.gz with Git LFS)
 *.dat filter=lfs diff=lfs merge=lfs -text
 *.dat.gz filter=lfs diff=lfs merge=lfs -text
