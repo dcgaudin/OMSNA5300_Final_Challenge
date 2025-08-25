@@ -3,7 +3,7 @@
 This repository contains data and analysis for a retail employment study using IPUMS CPS data from Jan 2020 to Apr 2022.
 
 ## Data File
-- **File**: `data/cps_00002.dat.gz`
+- **File**: `data_local/cps_00002.dat.gz`
 - **Source**: IPUMS Current Population Survey (CPS)
 - **Size**: ~89.3 MB (compressed)
 - **Access**: Stored using Git LFS; download with `git lfs pull` after cloning.
@@ -36,7 +36,7 @@ This repository contains data and analysis for a retail employment study using I
 The report analyzes IPUMS CPS data (Jan 2020-Apr 2022) for retail employment during COVID-19.
 
 ## Data File
-- **File**: `data/cps_00002.dat.gz`
+- **File**: `data_local/cps_00002.dat.gz`
 - **Size**: ~89.3 MB
 - **Access**: Use Git LFS (`git lfs pull` after cloning)
 
