@@ -1,0 +1,29 @@
+Download LFS files
+
+Option A — GUI (no terminal)
+
+GitHub Desktop handles LFS automatically.
+
+Install GitHub Desktop.
+
+File → Clone repository… → pick the repo → Clone.
+
+Quick use (and it handles LFS automatically)
+
+Open GitHub Desktop → File → Clone repository…
+
+Paste your repo URL: https://github.com/dcgaudin/OMSNA5300_Final_Challenge.git
+
+Click Clone.
+GitHub Desktop fetches LFS files (like data_local/cps_00002.dat.gz) as the real files—no extra steps.
+
+Option B — Use Git Bash (Windows) or Terminal (macOS/Linux) or RStudio’s Terminal tab.
+
+git lfs install
+git clone --filter=blob:none --sparse https://github.com/dcgaudin/OMSNA5300_Final_Challenge.git
+cd OMSNA5300_Final_Challenge
+git sparse-checkout set data_local/cps_00003.dat.gz
+git lfs pull --include="data_local/cps_00003.dat.gz" --exclude=""
+ls -lh data_local/cps_00003.dat.gz
+
+
