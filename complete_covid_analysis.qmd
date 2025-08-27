@@ -638,12 +638,12 @@ All models show extremely high significance:
 - **Model 3 (Hours Worked)**: 17/17 coefficients significant (F >> 100)
 
 ### 2. Key Coefficient Hypothesis Tests (H₀: coefficient = 0)
-- **Post-COVID Effect**: t = -33.28, p < 2e-16 ✓ **REJECT H₀**
-- **Retail COVID Impact**: t = -52.08, p < 2e-16 ✓ **REJECT H₀**
-- **Retail × Post-COVID Interaction**: t = -7.84, p = 4.48e-15 ✓ **REJECT H₀**
+- **Post-COVID Effect**: t = -33.28, p < 2e-16  **REJECT H₀**
+- **Retail COVID Impact**: t = -52.08, p < 2e-16  **REJECT H₀**
+- **Retail × Post-COVID Interaction**: t = -7.84, p = 4.48e-15  **REJECT H₀**
 
 ### 3. ANOVA for Group Differences
-**Employment Rate ANOVA**: F = 1,699.55, p < 2e-16 ✓ **STRONG GROUP DIFFERENCES**
+**Employment Rate ANOVA**: F = 1,699.55, p < 2e-16  **STRONG GROUP DIFFERENCES**
 
 ### 4. Difference-in-Differences Analysis
 - **Retail Employment Change**: -3.74pp
@@ -653,7 +653,7 @@ All models show extremely high significance:
 ### 5. Welch's t-test for Unequal Variances
 **Post-COVID Employment Rate Differences**:
 - t = -46.462, df = 263,868.7, p < 2e-16
-- 95% CI: [-3.15%, -2.90%] ✓ **RETAIL ≠ NON-RETAIL**
+- 95% CI: [-3.15%, -2.90%]  **RETAIL ≠ NON-RETAIL**
 
 ### 6. Joint Hypothesis Tests
 - **Demographics**: 6/6 demographic variables significant (p < 0.05)
@@ -664,14 +664,14 @@ All models show extremely high significance:
 - Accounts for potential non-constant variance in survey data
 
 ### 8. Null Hypothesis Rejections Summary (α = 0.05)
-✓ **Overall Model 1 Significance**: REJECTED  
-✓ **Overall Model 2 Significance**: REJECTED  
-✓ **Overall Model 3 Significance**: REJECTED  
-✓ **Post-COVID Effect ≠ 0**: REJECTED  
-✓ **Retail COVID Impact ≠ 0**: REJECTED  
-✓ **Employment Rate Differences**: REJECTED  
-✓ **Retail vs Non-Retail (Post-COVID)**: REJECTED  
-✓ **Joint Demographics Effect**: REJECTED  
+ **Overall Model 1 Significance**: REJECTED  
+ **Overall Model 2 Significance**: REJECTED  
+ **Overall Model 3 Significance**: REJECTED  
+ **Post-COVID Effect ≠ 0**: REJECTED  
+ **Retail COVID Impact ≠ 0**: REJECTED  
+ **Employment Rate Differences**: REJECTED  
+ **Retail vs Non-Retail (Post-COVID)**: REJECTED  
+ **Joint Demographics Effect**: REJECTED  
 
 **All major hypotheses REJECTED at α = 0.05, providing strong statistical evidence.**
 
@@ -710,12 +710,13 @@ All models show extremely high significance:
 
 ## Conclusion
 
-This analysis provides robust statistical evidence that **COVID-19 disproportionately affected retail employment**, with larger job losses (-3.7pp vs -2.2pp), slower recovery, and distinct patterns of work disruption compared to other industries. The difference-in-differences effect of -1.57 percentage points is both statistically significant (p < 0.001) and economically meaningful.
+This analysis provides statistical evidence that **COVID-19 disproportionately affected retail employment**, with larger job losses (-3.7pp vs -2.2pp), slower recovery, and distinct patterns of work disruption compared to other industries. The difference-in-differences effect of -1.57 percentage points is both statistically significant (p < 0.001) and economically meaningful.
 
 **Comprehensive statistical validation** through F-tests, t-tests, ANOVA, difference-in-differences analysis, and Welch's t-tests confirms the robustness of all key findings. All major null hypotheses are rejected at α = 0.05, providing strong evidence for differential COVID impacts on retail employment.
 
 The findings support targeted policy interventions for retail workers and highlight the importance of work flexibility in pandemic resilience. Results demonstrate the value of using official IPUMS codebook positions and proper survey weights for accurate analysis of labor market dynamics during economic crises.
 
 **Analysis completed using IPUMS CPS 2020-2022 data with official codebook variable positions, proper survey weighting methodology, and comprehensive statistical validation.**
+
 
 
