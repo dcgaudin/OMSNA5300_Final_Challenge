@@ -31,7 +31,7 @@ library(scales)
 library(viridis)
 
 # Data path
-# load data cps_00003.dat.gz after download to your computer
+# load data cps_00003.dat.gz after download to your computer. Use your own path c:/users/jdoe/OneDrive - Files
 data_path <- "C:/Users/dgaudin/OneDrive - airmethods.com/Desktop/Seattle U/5300 econometrics/Final Challenge/data_local/cps_00003.dat.gz"
 
 cat("=== IPUMS CPS COVID RETAIL EMPLOYMENT ANALYSIS ===\n")
@@ -467,3 +467,4 @@ This analysis provides robust evidence that COVID-19 disproportionately affected
 4. **Recovery Speed**: Retail showed slowest employment recovery among major industries
 
 The findings support targeted policy interventions for retail workers and highlight the importance of work flexibility in pandemic resilience.
+
