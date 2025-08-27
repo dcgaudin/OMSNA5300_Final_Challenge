@@ -1,0 +1,945 @@
+Description: Revision of (Revision of (research final project Seattle U))
+Samples selected:
+      IPUMS-CPS, January 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, February 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, March 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, ASEC 2020
+            Note: 
+            Density of the full data file:  0.07%
+            Density of your extract: 0.1%
+
+      IPUMS-CPS, April 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, May 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, June 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, July 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, August 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, September 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, October 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, November 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, December 2020
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, January 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, February 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, March 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, ASEC 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, April 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, May 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, June 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, July 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, August 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, September 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, October 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, November 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, December 2021
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, January 2022
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, February 2022
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, March 2022
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, ASEC 2022
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, April 2022
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+      IPUMS-CPS, ASEC 2023
+            Note: 
+            Density of the full data file:  0.01%
+            Density of your extract: 0.0%
+
+File Type:                    rectangular
+Case Selection:               No
+  Variable                         Columns        Len   01/2020 02/2020 03/2020 03/2020 04/2020 05/2020 06/2020 07/2020 08/2020 09/2020 10/2020 11/2020 12/2020 01/2021 02/2021 03/2021 03/2021 04/2021 05/2021 06/2021 07/2021 08/2021 09/2021 10/2021 11/2021 12/2021 01/2022 02/2022 03/2022 03/2022 04/2022 03/2023 
+  YEAR                         H   1-4            4     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  SERIAL                       H   5-9            5     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  MONTH                        H  10-11           2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  HWTFINL                      H  12-21          10     X       X       X       .       X       X       X       X       X       X       X       X       X       X       X       X       .       X       X       X       X       X       X       X       X       X       X       X       X       .       X       .       
+  CPSID                        H  22-35          14     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  ASECFLAG                     H  36              1     .       .       X       X       .       .       .       .       .       .       .       .       .       .       .       X       X       .       .       .       .       .       .       .       .       .       .       .       X       X       .       X       
+  ASECWTH                      H  37-47          11     .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       X       
+  STATEFIP                     H  48-49           2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  PERNUM                       P  50-51           2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  WTFINL                       P  52-65          14     X       X       X       .       X       X       X       X       X       X       X       X       X       X       X       X       .       X       X       X       X       X       X       X       X       X       X       X       X       .       X       .       
+  CPSIDP                       P  66-79          14     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  CPSIDV                       P  80-94          15     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  ASECWT                       P  95-105         11     .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       X       
+  ASECWTCVD                    P 106-115         10     .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       .       .       .       
+  AGE                          P 116-117          2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  SEX                          P 118              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  RACE                         P 119-121          3     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  MARST                        P 122              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  POPSTAT                      P 123              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  FAMSIZE                      P 124-125          2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  CITIZEN                      P 126              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  HISPAN                       P 127-129          3     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  EMPSTAT                      P 130-131          2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  LABFORCE                     P 132              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  OCC                          P 133-136          4     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  IND1990                      P 137-139          3     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  IND                          P 140-143          4     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  CLASSWKR                     P 144-145          2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  UHRSWORKT                    P 146-148          3     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  AHRSWORKT                    P 149-151          3     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  WKSTAT                       P 152-153          2     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  QEMPSTAT                   q P 154              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  QIND                       q P 155              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  QLABFORC                   q P 156              1     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  EDUC                         P 157-159          3     X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       X       
+  FTOTVAL                      P 160-169         10     .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       X       
+  INCTOT                       P 170-178          9     .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       X       
+  INCWAGE                      P 179-186          8     .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       .       .       .       .       .       .       .       .       .       .       .       X       .       X       
+  COVIDTELEW                   P 187-188          2     .       .       .       .       .       X       X       X       X       X       X       X       X       X       X       X       .       X       X       X       X       X       X       X       X       X       X       X       X       .       X       .       
+  COVIDUNAW                    P 189-190          2     .       .       .       .       .       X       X       X       X       X       X       X       X       X       X       X       .       X       X       X       X       X       X       X       X       X       X       X       X       .       X       .       
+
+Variable Availability Key:
+All Years X - available in this sample
+All Years . - not available in this sample
+
+RECTYPE   Record type
+H         Household
+P         Person
+
+MONTH               Month
+01                  January
+02                  February
+03                  March
+04                  April
+05                  May
+06                  June
+07                  July
+08                  August
+09                  September
+10                  October
+11                  November
+12                  December
+
+ASECFLAG            Flag for ASEC
+1                   ASEC
+2                   March Basic
+
+STATEFIP            State (FIPS code)
+01                  Alabama
+02                  Alaska
+04                  Arizona
+05                  Arkansas
+06                  California
+08                  Colorado
+09                  Connecticut
+10                  Delaware
+11                  District of Columbia
+12                  Florida
+13                  Georgia
+15                  Hawaii
+16                  Idaho
+17                  Illinois
+18                  Indiana
+19                  Iowa
+20                  Kansas
+21                  Kentucky
+22                  Louisiana
+23                  Maine
+24                  Maryland
+25                  Massachusetts
+26                  Michigan
+27                  Minnesota
+28                  Mississippi
+29                  Missouri
+30                  Montana
+31                  Nebraska
+32                  Nevada
+33                  New Hampshire
+34                  New Jersey
+35                  New Mexico
+36                  New York
+37                  North Carolina
+38                  North Dakota
+39                  Ohio
+40                  Oklahoma
+41                  Oregon
+42                  Pennsylvania
+44                  Rhode Island
+45                  South Carolina
+46                  South Dakota
+47                  Tennessee
+48                  Texas
+49                  Utah
+50                  Vermont
+51                  Virginia
+53                  Washington
+54                  West Virginia
+55                  Wisconsin
+56                  Wyoming
+61                  Maine-New Hampshire-Vermont
+65                  Montana-Idaho-Wyoming
+68                  Alaska-Hawaii
+69                  Nebraska-North Dakota-South Dakota
+70                  Maine-Massachusetts-New Hampshire-Rhode Island-Vermont
+71                  Michigan-Wisconsin
+72                  Minnesota-Iowa
+73                  Nebraska-North Dakota-South Dakota-Kansas
+74                  Delaware-Virginia
+75                  North Carolina-South Carolina
+76                  Alabama-Mississippi
+77                  Arkansas-Oklahoma
+78                  Arizona-New Mexico-Colorado
+79                  Idaho-Wyoming-Utah-Montana-Nevada
+80                  Alaska-Washington-Hawaii
+81                  New Hampshire-Maine-Vermont-Rhode Island
+83                  South Carolina-Georgia
+84                  Kentucky-Tennessee
+85                  Arkansas-Louisiana-Oklahoma
+87                  Iowa-N Dakota-S Dakota-Nebraska-Kansas-Minnesota-Missouri
+88                  Washington-Oregon-Alaska-Hawaii
+89                  Montana-Wyoming-Colorado-New Mexico-Utah-Nevada-Arizona
+90                  Delaware-Maryland-Virginia-West Virginia
+99                  State not identified
+
+AGE                 Age
+00                  Under 1 year
+01                  1
+02                  2
+03                  3
+04                  4
+05                  5
+06                  6
+07                  7
+08                  8
+09                  9
+10                  10
+11                  11
+12                  12
+13                  13
+14                  14
+15                  15
+16                  16
+17                  17
+18                  18
+19                  19
+20                  20
+21                  21
+22                  22
+23                  23
+24                  24
+25                  25
+26                  26
+27                  27
+28                  28
+29                  29
+30                  30
+31                  31
+32                  32
+33                  33
+34                  34
+35                  35
+36                  36
+37                  37
+38                  38
+39                  39
+40                  40
+41                  41
+42                  42
+43                  43
+44                  44
+45                  45
+46                  46
+47                  47
+48                  48
+49                  49
+50                  50
+51                  51
+52                  52
+53                  53
+54                  54
+55                  55
+56                  56
+57                  57
+58                  58
+59                  59
+60                  60
+61                  61
+62                  62
+63                  63
+64                  64
+65                  65
+66                  66
+67                  67
+68                  68
+69                  69
+70                  70
+71                  71
+72                  72
+73                  73
+74                  74
+75                  75
+76                  76
+77                  77
+78                  78
+79                  79
+80                  80
+81                  81
+82                  82
+83                  83
+84                  84
+85                  85
+86                  86
+87                  87
+88                  88
+89                  89
+90                  90 (90+, 1988-2002)
+91                  91
+92                  92
+93                  93
+94                  94
+95                  95
+96                  96
+97                  97
+98                  98
+99                  99+
+
+SEX                 Sex
+1                   Male
+2                   Female
+9                   NIU
+
+RACE                Race
+100                 White
+200                 Black
+300                 American Indian/Aleut/Eskimo
+650                 Asian or Pacific Islander
+651                 Asian only
+652                 Hawaiian/Pacific Islander only
+700                 Other (single) race, n.e.c.
+                    Two or more races
+801                 White-Black
+802                 White-American Indian
+803                 White-Asian
+804                 White-Hawaiian/Pacific Islander
+805                 Black-American Indian
+806                 Black-Asian
+807                 Black-Hawaiian/Pacific Islander
+808                 American Indian-Asian
+809                 Asian-Hawaiian/Pacific Islander
+810                 White-Black-American Indian
+811                 White-Black-Asian
+812                 White-American Indian-Asian
+813                 White-Asian-Hawaiian/Pacific Islander
+814                 White-Black-American Indian-Asian
+815                 American Indian-Hawaiian/Pacific Islander
+816                 White-Black--Hawaiian/Pacific Islander
+817                 White-American Indian-Hawaiian/Pacific Islander
+818                 Black-American Indian-Asian
+819                 White-American Indian-Asian-Hawaiian/Pacific Islander
+820                 Two or three races, unspecified
+830                 Four or five races, unspecified
+999                 Blank
+
+MARST               Marital status
+1                   Married, spouse present
+2                   Married, spouse absent
+3                   Separated
+4                   Divorced
+5                   Widowed
+6                   Never married/single
+7                   Widowed or Divorced
+9                   NIU
+
+POPSTAT             Adult civilian, armed forces, or child
+1                   Adult civilian
+2                   Armed Forces
+3                   Child
+
+FAMSIZE             Number of own family members in hh
+00                  Missing
+01                  1 family member present
+02                  2 family members present
+03                  3 family members present
+04                  4 family members present
+05                  5 family members present
+06                  6 family members present
+07                  7 family members present
+08                  8 family members present
+09                  9 family members present
+10                  10 family members present
+11                  11 family members present
+12                  12 family members present
+13                  13 family members present
+14                  14 family members present
+15                  15 family members present
+16                  16 family members present
+17                  17 family members present
+18                  18 family members present
+19                  19 family members present
+20                  20 family members present
+21                  21 family members present
+22                  22 family members present
+23                  23 family members present
+24                  24 family members present
+25                  25 family members present
+26                  26 family members present
+27                  27 family members present
+28                  28 family members present
+29                  29 family members present
+
+CITIZEN             Citizenship status
+1                   Born in U.S
+2                   Born in U.S. outlying
+3                   Born abroad of American parents
+4                   Naturalized citizen
+5                   Not a citizen
+9                   NIU
+
+HISPAN              Hispanic origin
+000                 Not Hispanic
+100                 Mexican
+102                 Mexican American
+103                 Mexicano/Mexicana
+104                 Chicano/Chicana
+108                 Mexican (Mexicano)
+109                 Mexicano/Chicano
+200                 Puerto Rican
+300                 Cuban
+400                 Dominican
+500                 Salvadoran
+                    Other Spanish:
+600                 Other Hispanic
+610                 Central/South American
+611                 Central American, (excluding Salvadoran)
+612                 South American
+901                 Do not know
+902                 N/A (and no response 1985-87)
+
+EMPSTAT             Employment status
+00                  NIU
+01                  Armed Forces
+                    In Labor Force
+                    Employed
+10                  At work
+12                  Has job, not at work last week
+20                  Unemployed
+21                  Unemployed, experienced worker
+22                  Unemployed, new worker
+30                  Not in labor force
+31                  NILF, housework
+32                  NILF, unable to work
+33                  NILF, school
+34                  NILF, other
+35                  NILF, unpaid, lt 15 hours
+36                  NILF, retired
+
+LABFORCE            Labor force status
+0                   NIU
+1                   No, not in the labor force
+2                   Yes, in the labor force
+
+IND1990             Industry, 1990 basis
+000                 NIU
+                    AGRICULTURE, FORESTRY, AND FISHERIES
+010                 Agricultural production, crops
+011                 Agricultural production, livestock
+012                 Veterinary services
+020                 Landscape and horticultural services
+030                 Agricultural services, n.e.c.
+031                 Forestry
+032                 Fishing, hunting, and trapping
+                    MINING
+040                 Metal mining
+041                 Coal mining
+042                 Oil and gas extraction
+050                 Nonmetallic mining and quarrying, except fuels
+                    CONSTRUCTION
+060                 All construction
+                    MANUFACTURING
+                    Nondurable Goods
+                    Food and kindred products:
+100                 Meat products
+101                 Dairy products
+102                 Canned, frozen, and preserved fruits and vegetables
+110                 Grain mill products
+111                 Bakery products
+112                 Sugar and confectionery products
+120                 Beverage industries
+121                 Misc. food preparations and kindred products
+122                 Food industries, n.s.
+130                 Tobacco manufactures
+                    Textile mill products:
+132                 Knitting mills
+140                 Dyeing and finishing textiles, except wool and knit goods
+141                 Carpets and rugs
+142                 Yarn, thread, and fabric mills
+150                 Miscellaneous textile mill products
+                    Apparel and other finished textile products:
+151                 Apparel and accessories, except knit
+152                 Miscellaneous fabricated textile products
+                    Paper and allied products:
+160                 Pulp, paper, and paperboard mills
+161                 Miscellaneous paper and pulp products
+162                 Paperboard containers and boxes
+                    Printing, publishing, and allied industries:
+171                 Newspaper publishing and printing
+172                 Printing, publishing, and allied industries, except newspapers
+                    Chemicals and allied products:
+180                 Plastics, synthetics, and resins
+181                 Drugs
+182                 Soaps and cosmetics
+190                 Paints, varnishes, and related products
+191                 Agricultural chemicals
+192                 Industrial and miscellaneous chemicals
+                    Petroleum and coal products:
+200                 Petroleum refining
+201                 Miscellaneous petroleum and coal products
+                    Rubber and miscellaneous plastics products:
+210                 Tires and inner tubes
+211                 Other rubber products, and plastics footwear and belting
+212                 Miscellaneous plastics products
+                    Leather and leather products:
+220                 Leather tanning and finishing
+221                 Footwear, except rubber and plastic
+222                 Leather products, except footwear
+229                 Manufacturing, non-durable - allocated
+                    Durable Goods
+                    Lumber and woods products, except furniture:
+230                 Logging
+231                 Sawmills, planing mills, and millwork
+232                 Wood buildings and mobile homes
+241                 Miscellaneous wood products
+242                 Furniture and fixtures
+                    Stone, clay, glass and concrete products:
+250                 Glass and glass products
+251                 Cement, concrete, gypsum, and plaster products
+252                 Structural clay products
+261                 Pottery and related products
+262                 Misc. nonmetallic mineral and stone products
+                    Metal industries:
+270                 Blast furnaces, steelworks, rolling and finishing mills
+271                 Iron and steel foundries
+272                 Primary aluminum industries
+280                 Other primary metal industries
+281                 Cutlery, handtools, and general hardware
+282                 Fabricated structural metal products
+290                 Screw machine products
+291                 Metal forgings and stampings
+292                 Ordnance
+300                 Miscellaneous fabricated metal products
+301                 Metal industries, n.s.
+                    Machinery and computing equipment:
+310                 Engines and turbines
+311                 Farm machinery and equipment
+312                 Construction and material handling machines
+320                 Metalworking machinery
+321                 Office and accounting machines
+322                 Computers and related equipment
+331                 Machinery, except electrical, n.e.c.
+332                 Machinery, n.s.
+                    Electrical machinery, equipment, and supplies:
+340                 Household appliances
+341                 Radio, TV, and communication equipment
+342                 Electrical machinery, equipment, and supplies, n.e.c.
+350                 Electrical machinery, equipment, and supplies, n.s.
+                    Transportation equipment:
+351                 Motor vehicles and motor vehicle equipment
+352                 Aircraft and parts
+360                 Ship and boat building and repairing
+361                 Railroad locomotives and equipment
+362                 Guided missiles, space vehicles, and parts
+370                 Cycles and miscellaneous transportation equipment
+                    Professional and photographic equipment, and watches:
+371                 Scientific and controlling instruments
+372                 Medical, dental, and optical instruments and supplies
+380                 Photographic equipment and supplies
+381                 Watches, clocks, and clockwork operated devices
+390                 Toys, amusement, and sporting goods
+391                 Miscellaneous manufacturing industries
+392                 Manufacturing industries, n.s.
+                    TRANSPORTATION, COMMUNICATIONS, AND OTHER PUBLIC UTILITIES
+                    Transportation:
+400                 Railroads
+401                 Bus service and urban transit
+402                 Taxicab service
+410                 Trucking service
+411                 Warehousing and storage
+412                 U.S. Postal Service
+420                 Water transportation
+421                 Air transportation
+422                 Pipe lines, except natural gas
+432                 Services incidental to transportation
+                    Communications:
+440                 Radio and television broadcasting and cable
+441                 Wired communications
+442                 Telegraph and miscellaneous communications services
+                    Utilities and sanitary services:
+450                 Electric light and power
+451                 Gas and steam supply systems
+452                 Electric and gas, and other combinations
+470                 Water supply and irrigation
+471                 Sanitary services
+472                 Utilities, n.s.
+                    WHOLESALE TRADE
+                    Durable Goods:
+500                 Motor vehicles and equipment
+501                 Furniture and home furnishings
+502                 Lumber and construction materials
+510                 Professional and commercial equipment and supplies
+511                 Metals and minerals, except petroleum
+512                 Electrical goods
+521                 Hardware, plumbing and heating supplies
+530                 Machinery, equipment, and supplies
+531                 Scrap and waste materials
+532                 Miscellaneous wholesale, durable goods
+                    Nondurable Goods:
+540                 Paper and paper products
+541                 Drugs, chemicals, and allied products
+542                 Apparel, fabrics, and notions
+550                 Groceries and related products
+551                 Farm-product raw materials
+552                 Petroleum products
+560                 Alcoholic beverages
+561                 Farm supplies
+562                 Miscellaneous wholesale, nondurable goods
+571                 Wholesale trade, n.s.
+                    RETAIL TRADE
+580                 Lumber and building material retailing
+581                 Hardware stores
+582                 Retail nurseries and garden stores
+590                 Mobile home dealers
+591                 Department stores
+592                 Variety stores
+600                 Miscellaneous general merchandise stores
+601                 Grocery stores
+602                 Dairy products stores
+610                 Retail bakeries
+611                 Food stores, n.e.c.
+612                 Motor vehicle dealers
+620                 Auto and home supply stores
+621                 Gasoline service stations
+622                 Miscellaneous vehicle dealers
+623                 Apparel and accessory stores, except shoe
+630                 Shoe stores
+631                 Furniture and home furnishings stores
+632                 Household appliance stores
+633                 Radio, TV, and computer stores
+640                 Music stores
+641                 Eating and drinking places
+642                 Drug stores
+650                 Liquor stores
+651                 Sporting goods, bicycles, and hobby stores
+652                 Book and stationery stores
+660                 Jewelry stores
+661                 Gift, novelty, and souvenir shops
+662                 Sewing, needlework, and piece goods stores
+663                 Catalog and mail order houses
+670                 Vending machine operators
+671                 Direct selling establishments
+672                 Fuel dealers
+681                 Retail florists
+682                 Miscellaneous retail stores
+691                 Retail trade, n.s.
+                    FINANCE, INSURANCE, AND REAL ESTATE
+700                 Banking
+701                 Savings institutions, including credit unions
+702                 Credit agencies, n.e.c.
+710                 Security, commodity brokerage, and investment companies
+711                 Insurance
+712                 Real estate, including real estate-insurance offices
+                    BUSINESS AND REPAIR SERVICES
+721                 Advertising
+722                 Services to dwellings and other buildings
+731                 Personnel supply services
+732                 Computer and data processing services
+740                 Detective and protective services
+741                 Business services, n.e.c.
+742                 Automotive rental and leasing, without drivers
+750                 Automobile parking and carwashes
+751                 Automotive repair and related services
+752                 Electrical repair shops
+760                 Miscellaneous repair services
+                    PERSONAL SERVICES
+761                 Private households
+762                 Hotels and motels
+770                 Lodging places, except hotels and motels
+771                 Laundry, cleaning, and garment services
+772                 Beauty shops
+780                 Barber shops
+781                 Funeral service and crematories
+782                 Shoe repair shops
+790                 Dressmaking shops
+791                 Miscellaneous personal services
+                    ENTERTAINMENT AND RECREATION SERVICES
+800                 Theaters and motion pictures
+801                 Video tape rental
+802                 Bowling centers
+810                 Miscellaneous entertainment and recreation services
+                    PROFESSIONAL AND RELATED SERVICES
+812                 Offices and clinics of physicians
+820                 Offices and clinics of dentists
+821                 Offices and clinics of chiropractors
+822                 Offices and clinics of optometrists
+830                 Offices and clinics of health practitioners, n.e.c.
+831                 Hospitals
+832                 Nursing and personal care facilities
+840                 Health services, n.e.c.
+841                 Legal services
+842                 Elementary and secondary schools
+850                 Colleges and universities
+851                 Vocational schools
+852                 Libraries
+860                 Educational services, n.e.c.
+861                 Job training and vocational rehabilitation services
+862                 Child day care services
+863                 Family child care homes
+870                 Residential care facilities, without nursing
+871                 Social services, n.e.c.
+872                 Museums, art galleries, and zoos
+873                 Labor unions
+880                 Religious organizations
+881                 Membership organizations, n.e.c.
+882                 Engineering, architectural, and surveying services
+890                 Accounting, auditing, and bookkeeping services
+891                 Research, development, and testing services
+892                 Management and public relations services
+893                 Miscellaneous professional and related services
+                    PUBLIC ADMINISTRATION
+900                 Executive and legislative offices
+901                 General government, n.e.c.
+910                 Justice, public order, and safety
+921                 Public finance, taxation, and monetary policy
+922                 Administration of human resources programs
+930                 Administration of environmental quality and housing programs
+931                 Administration of economic programs
+932                 National security and international affairs
+                    ACTIVE DUTY MILITARY
+                    Armed Forces:
+940                 Army
+941                 Air Force
+942                 Navy
+950                 Marines
+951                 Coast Guard
+952                 Armed Forces, branch not specified
+960                 Military Reserves or National Guard
+998                 Unknown
+
+CLASSWKR            Class of worker 
+00                  NIU
+10                  Self-employed
+13                  Self-employed, not incorporated
+14                  Self-employed, incorporated
+20                  Works for wages or salary
+21                  Wage/salary, private
+22                  Private, for profit
+23                  Private, nonprofit
+24                  Wage/salary, government
+25                  Federal government employee
+26                  Armed forces
+27                  State government employee
+28                  Local government employee
+29                  Unpaid family worker
+99                  Missing/Unknown
+
+UHRSWORKT           Hours usually worked per week at all jobs
+997                 Hours vary
+999                 NIU
+
+WKSTAT              Full or part time status
+10                  Full-time schedules
+11                  Full-time hours (35+), usually full-time
+12                  Part-time for non-economic reasons, usually full-time
+13                  Not at work, usually full-time
+14                  Full-time hours, usually part-time for economic reasons
+15                  Full-time hours, usually part-time for non-economic reasons
+20                  Part-time for economic reasons
+21                  Part-time for economic reasons, usually full-time
+22                  Part-time hours, usually part-time for economic reasons
+40                  Part-time for non-economic reasons, usually part-time
+41                  Part-time hours, usually part-time for non-economic reasons
+42                  Not at work, usually part-time
+50                  Unemployed, seeking full-time work
+60                  Unemployed, seeking part-time work
+99                  NIU, blank, or not in labor force
+
+QEMPSTAT            Data quality flag for EMPSTAT
+0                   No change or children or armed forces
+1                   Value to blank
+2                   Blank to value
+3                   Value to value
+4                   Allocated
+5                   Blank to allocated value
+6                   Blank to longitudinal value
+
+QIND                Data quality flag for IND
+0                   No change or children or armed forces
+1                   Value to blank
+2                   Blank to value
+3                   Value to value
+4                   Allocated
+5                   Value to allocated value
+6                   Blank to allocated value
+7                   Blank to longitudinal value
+
+QLABFORC            Data quality flag for LABFORCE
+0                   No change or children or armed forces
+1                   Value to blank
+2                   Blank to value
+3                   Value to value
+4                   Allocated
+5                   Blank to allocated value
+6                   Blank to longitudinal value
+
+EDUC                Educational attainment recode
+000                 NIU or no schooling
+001                 NIU or blank
+002                 None or preschool
+010                 Grades 1, 2, 3, or 4
+011                 Grade 1
+012                 Grade 2
+013                 Grade 3
+014                 Grade 4
+020                 Grades 5 or 6
+021                 Grade 5
+022                 Grade 6
+030                 Grades 7 or 8
+031                 Grade 7
+032                 Grade 8
+040                 Grade 9
+050                 Grade 10
+060                 Grade 11
+070                 Grade 12
+071                 12th grade, no diploma
+072                 12th grade, diploma unclear
+073                 High school diploma or equivalent
+080                 1 year of college
+081                 Some college but no degree
+090                 2 years of college
+091                 Associate's degree, occupational/vocational program
+092                 Associate's degree, academic program
+100                 3 years of college
+110                 4 years of college
+111                 Bachelor's degree
+120                 5+ years of college
+121                 5 years of college
+122                 6+ years of college
+123                 Master's degree
+124                 Professional school degree
+125                 Doctorate degree
+999                 Missing/Unknown
+
+COVIDTELEW          Worked remotely for pay due to COVID-19 pandemic
+01                  No
+02                  Yes
+99                  NIU
+
+COVIDUNAW           Unable to work due to COVID-19 pandemic
+01                  No
+02                  Yes
+99                  NIU
