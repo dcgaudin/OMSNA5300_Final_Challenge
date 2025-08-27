@@ -460,6 +460,18 @@ summary(model3)
 
 **INTERPRETATION**: Retail workers averaged 2.6 fewer hours per week than other industries. The positive interaction term suggests retail workers' hours recovered slightly better than expected post-COVID.
 
+# Visualizations
+
+```{r visualizations}
+#| label: visualizations
+#| include: true
+#| fig-width: 10
+#| fig-height: 6
+
+# Load visualization code
+source("fixed_visualization_code.R")
+```
+
 # Statistical Validation Tests
 
 ```{r statistical-validation}
@@ -479,9 +491,9 @@ All models show extremely high significance:
 - **Model 3 (Hours Worked)**: 17/17 coefficients significant (F >> 100)
 
 ### 2. Key Coefficient Hypothesis Tests (H₀: coefficient = 0)
-- **Post-COVID Effect**: t = -33.28, p < 2e-16 ✓ **REJECT H₀**
-- **Retail COVID Impact**: t = -52.08, p < 2e-16 ✓ **REJECT H₀**
-- **Retail × Post-COVID Interaction**: t = -7.84, p = 4.48e-15 ✓ **REJECT H₀**
+- **Post-COVID Effect**: t = -33.28, p < 2e-16  **REJECT H₀**
+- **Retail COVID Impact**: t = -52.08, p < 2e-16  **REJECT H₀**
+- **Retail × Post-COVID Interaction**: t = -7.84, p = 4.48e-15  **REJECT H₀**
 
 ### 3. ANOVA for Group Differences
 **Employment Rate ANOVA**: F = 1,699.55, p < 2e-16 ✓ **STRONG GROUP DIFFERENCES**
@@ -494,7 +506,7 @@ All models show extremely high significance:
 ### 5. Welch's t-test for Unequal Variances
 **Post-COVID Employment Rate Differences**:
 - t = -46.462, df = 263,868.7, p < 2e-16
-- 95% CI: [-3.15%, -2.90%] ✓ **RETAIL ≠ NON-RETAIL**
+- 95% CI: [-3.15%, -2.90%] **RETAIL ≠ NON-RETAIL**
 
 ### 6. Joint Hypothesis Tests
 - **Demographics**: 6/6 demographic variables significant (p < 0.05)
@@ -505,14 +517,14 @@ All models show extremely high significance:
 - Accounts for potential non-constant variance in survey data
 
 ### 8. Null Hypothesis Rejections Summary (α = 0.05)
-✓ **Overall Model 1 Significance**: REJECTED  
-✓ **Overall Model 2 Significance**: REJECTED  
-✓ **Overall Model 3 Significance**: REJECTED  
-✓ **Post-COVID Effect ≠ 0**: REJECTED  
-✓ **Retail COVID Impact ≠ 0**: REJECTED  
-✓ **Employment Rate Differences**: REJECTED  
-✓ **Retail vs Non-Retail (Post-COVID)**: REJECTED  
-✓ **Joint Demographics Effect**: REJECTED  
+**Overall Model 1 Significance**: REJECTED  
+**Overall Model 2 Significance**: REJECTED  
+**Overall Model 3 Significance**: REJECTED  
+**Post-COVID Effect ≠ 0**: REJECTED  
+**Retail COVID Impact ≠ 0**: REJECTED  
+**Employment Rate Differences**: REJECTED  
+**Retail vs Non-Retail (Post-COVID)**: REJECTED  
+**Joint Demographics Effect**: REJECTED  
 
 **All major hypotheses REJECTED at α = 0.05, providing strong statistical evidence.**
 
