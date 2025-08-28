@@ -43,7 +43,9 @@ library(knitr)
 library(kableExtra)
 
 # Data path
-data_path <- "C:/Users/dgaudin/OneDrive - airmethods.com/Desktop/Seattle U/5300 econometrics/Final Challenge/data_local/cps_00003.dat.gz"
+# data_path <- "C:/Users/dgaudin/OneDrive - airmethods.com/Desktop/Seattle U/5300 econometrics/Final Challenge/data_local/cps_00003.dat.gz"
+data_path <- here("data_local", "cps_00003.dat.gz")
+
 
 cat("=== IPUMS CPS COVID RETAIL EMPLOYMENT ANALYSIS ===\n")
 ```
@@ -717,6 +719,7 @@ This analysis provides statistical evidence that **COVID-19 disproportionately a
 The findings support targeted policy interventions for retail workers and highlight the importance of work flexibility in pandemic resilience. Results demonstrate the value of using official IPUMS codebook positions and proper survey weights for accurate analysis of labor market dynamics during economic crises.
 
 **Analysis completed using IPUMS CPS 2020-2022 data with official codebook variable positions, proper survey weighting methodology, and comprehensive statistical validation.**
+
 
 
 
