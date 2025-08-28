@@ -46,31 +46,29 @@ This project analyzes the impact of COVID-19 on retail employment using IPUMS Cu
 3. Check that all R files are in the main project directory
 
 ### Step 2: Run Analysis
-**Option A: Complete Analysis (Recommended)**
+**Option A: Integrated Quarto Report (Recommended)**
 ```r
 # Open complete_covid_analysis.qmd in RStudio
-# Click "Render" button to generate full HTML report
+# Click "Render" button to generate comprehensive HTML report
+# This includes: data loading, regression models, visualizations, and findings
 ```
 
-**Option B: Individual Scripts**
+**Option B: Individual Scripts (Sequential)**
 ```r
-# 1. Run data validation checks
-source("data_validation.R")
-
-# 2. Load data and run main analysis
+# Run scripts in this order for complete analysis:
+# 1. Main analysis with data loading and regression models
 source("Covid_Retail_analysis.R")
 
-# 3. Generate visualizations
+# 2. Generate all visualizations (employment trends, COVID impacts, recovery)
 source("Covid_retail_plots.R")
 
-# 4. Run statistical validation tests
+# 3. Run comprehensive statistical validation tests
 source("Stat_validation_tests.R")
 ```
 
 ### Step 3: View Results
-- **HTML Report**: Complete analysis with integrated results
-- **Individual Outputs**: Plots and statistical summaries from each script
-- **Data Validation**: Quality checks and data structure verification
+- **Option A Output**: Single HTML report with integrated analysis, plots, and statistical validation
+- **Option B Output**: Console results from each script plus individual plot files and validation summaries
 
 ## Data Source Details
 
@@ -173,8 +171,12 @@ source("Stat_validation_tests.R")
 ```
 COVID-19 Retail Employment Analysis (2024). 
 Analysis of IPUMS Current Population Survey data, 2020-2022.
-Differences study of retail vs non-retail employment impacts.
+Difference-in-differences study of retail vs non-retail employment impacts.
 ```
+
+---
+
+**Note**: This analysis provides robust statistical evidence of COVID-19's disproportionate impact on retail employment. All major findings are statistically significant and validated through comprehensive testing procedures.
 
 ---
 
