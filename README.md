@@ -19,7 +19,6 @@ This project analyzes the impact of COVID-19 on retail employment using IPUMS Cu
 - `Covid_Retail_analysis` - Main analysis script (R file)
 - `Stat_validation_tests` - Statistical testing and validation (R file)
 - `Covid_retail_plots` - Visualization code (R file)
-- `data_validation` - Data quality checks (R file)
 
 ### Reports
 - `complete_covid_analysis` - Complete Quarto analysis document
@@ -140,12 +139,6 @@ source("Stat_validation_tests.R")
 - Proper handling of survey weights and missing data
 - Robust statistical methods account for complex survey design
 
-### Reproducibility
-- All code documented with clear comments
-- Modular script structure for easy modification
-- Version-controlled analysis with consistent results
-- Comprehensive error checking and validation
-
 ## Troubleshooting
 
 ### Common Issues
@@ -167,18 +160,4 @@ source("Stat_validation_tests.R")
 - **Methodology**: Weighted regression with robust standard errors
 - **Validation**: Comprehensive statistical testing at α = 0.05
 
-### Citation
-```
-COVID-19 Retail Employment Analysis (2024). 
-Analysis of IPUMS Current Population Survey data, 2020-2022.
-Difference-in-differences study of retail vs non-retail employment impacts.
-```
-
----
-
-**Note**: This analysis provides robust statistical evidence of COVID-19's disproportionate impact on retail employment. All major findings are statistically significant and validated through comprehensive testing procedures.
-
----
-
-**Note**: This analysis provides statistical evidence of COVID-19's disproportionate impact on retail employment. Findings are statistically significant and validated through testing procedures.
 
