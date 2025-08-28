@@ -25,7 +25,6 @@ This project analyzes the impact of COVID-19 on retail employment using IPUMS Cu
 - `LFS download instructions` - Data acquisition guide
 
 ### Development Files
-- `previous attempts/` - Folder with earlier analysis versions
 - `README.md` - This file
 
 ## Quick Start Guide
